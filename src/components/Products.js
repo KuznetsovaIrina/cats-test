@@ -38,7 +38,7 @@ function Products() {
                 </>
               : <Loader />
             }
-        </div>
+          </div>
         </div>
     </section>
   )
